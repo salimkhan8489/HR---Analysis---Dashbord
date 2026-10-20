@@ -1,0 +1,201 @@
+﻿EmployeeID,Age,Gender,Department,JobRole,EducationLevel,MaritalStatus,HireDate,YearsAtCompany,YearsInCurrentRole,JobLevel,MonthlyIncomeINR,JobSatisfaction,WorkLifeBalance,OverTime,BusinessTravel,DistanceFromHomeKM,TrainingTimesLastYear,PerformanceRating,ProjectsHandled,PromotionsCount,Attrition
+EMP0001,40,Male,Human Resources,Recruiter,Bachelor's,Married,2017-07-03,9,2,3,62129,4,3,No,Non-Travel,35,3,3,5,1,No
+EMP0002,48,Female,IT,IT Support Specialist,Diploma,Single,2022-10-30,3,3,4,83665,3,2,No,Travel_Rarely,30,4,2,4,1,No
+EMP0003,30,Male,Sales,Sales Executive,Bachelor's,Married,2024-12-05,1,1,2,63204,3,3,Yes,Travel_Rarely,24,1,3,4,0,No
+EMP0004,44,Male,Sales,Sales Representative,Master's,Married,2021-10-31,4,1,4,63958,3,2,No,Travel_Rarely,15,6,1,3,0,No
+EMP0005,38,Female,Sales,Sales Manager,Diploma,Married,2024-10-29,1,1,3,80892,2,3,No,Travel_Rarely,38,3,3,4,1,No
+EMP0006,21,Male,Sales,Sales Representative,Doctorate,Married,2024-08-28,2,0,1,42615,2,2,No,Travel_Rarely,1,5,3,5,0,No
+EMP0007,32,Male,Research & Development,Research Scientist,Master's,Single,2016-04-01,10,4,2,71809,3,3,No,Travel_Frequently,33,4,2,7,0,No
+EMP0008,51,Male,Sales,Sales Executive,Master's,Divorced,2025-04-20,1,0,5,72138,3,3,Yes,Travel_Rarely,6,5,3,3,0,Yes
+EMP0009,34,Female,IT,IT Support Specialist,Bachelor's,Divorced,2020-04-30,6,4,3,69305,2,3,No,Travel_Frequently,24,3,4,3,0,No
+EMP0010,35,Male,Sales,Sales Manager,Diploma,Married,2021-03-18,5,1,3,60726,3,1,No,Non-Travel,14,4,2,4,2,No
+EMP0011,21,Female,Research & Development,Research Director,High School,Married,2024-01-21,2,1,1,52694,2,2,No,Travel_Rarely,22,6,4,4,0,No
+EMP0012,26,Non-binary,Sales,Sales Executive,Doctorate,Divorced,2018-02-14,8,7,1,44989,2,4,No,Travel_Frequently,16,1,3,5,1,No
+EMP0013,37,Male,IT,IT Support Specialist,Bachelor's,Single,2015-01-09,11,6,3,70894,2,4,No,Travel_Rarely,14,0,3,4,1,Yes
+EMP0014,43,Female,IT,Software Engineer,High School,Divorced,2020-08-21,6,6,4,87190,3,1,No,Travel_Frequently,16,4,3,5,1,No
+EMP0015,25,Male,Research & Development,Research Scientist,High School,Married,2025-06-25,1,1,1,44506,2,3,Yes,Travel_Rarely,37,0,2,2,0,No
+EMP0016,49,Female,Sales,Sales Executive,Bachelor's,Married,2024-11-10,1,0,4,61441,3,2,No,Travel_Rarely,7,1,3,1,0,No
+EMP0017,37,Male,IT,Software Engineer,Master's,Single,2017-05-12,9,5,3,80067,2,3,Yes,Travel_Rarely,22,6,2,4,5,Yes
+EMP0018,22,Male,Sales,Sales Representative,Diploma,Single,2021-04-16,5,0,1,47030,1,4,No,Travel_Rarely,3,2,3,5,0,No
+EMP0019,37,Male,Sales,Sales Representative,Master's,Married,2019-07-23,7,2,3,41647,4,2,Yes,Travel_Rarely,16,2,2,6,1,No
+EMP0020,42,Male,Research & Development,Research Scientist,Doctorate,Single,2017-03-28,9,7,3,70445,3,4,No,Travel_Rarely,33,3,3,4,3,No
+EMP0021,50,Male,Research & Development,Research Director,High School,Divorced,2017-12-05,8,2,5,89179,3,4,Yes,Travel_Rarely,13,2,2,7,0,No
+EMP0022,38,Female,Research & Development,Laboratory Technician,Bachelor's,Married,2025-07-18,1,0,3,55140,3,1,No,Travel_Rarely,21,3,3,6,0,No
+EMP0023,30,Male,Sales,Sales Manager,Bachelor's,Married,2023-05-23,3,1,2,43438,3,3,No,Non-Travel,14,4,3,5,1,No
+EMP0024,35,Male,IT,Data Analyst,High School,Divorced,2020-10-12,6,5,3,77316,3,3,No,Travel_Rarely,40,6,3,4,0,No
+EMP0025,22,Female,IT,Data Analyst,Diploma,Divorced,2019-04-22,7,7,1,49441,3,2,No,Travel_Frequently,34,3,2,2,0,No
+EMP0026,21,Male,IT,IT Support Specialist,Bachelor's,Single,2022-06-27,4,4,1,60371,4,3,No,Travel_Frequently,31,3,3,2,0,No
+EMP0027,34,Male,Human Resources,HR Executive,Bachelor's,Single,2022-01-11,4,1,3,50129,2,1,No,Travel_Rarely,14,0,3,6,0,No
+EMP0028,47,Female,Research & Development,Laboratory Technician,Bachelor's,Married,2019-05-15,7,0,4,83491,4,4,No,Non-Travel,39,1,3,7,0,No
+EMP0029,24,Female,Research & Development,Research Director,High School,Married,2023-12-14,2,1,1,58603,4,4,No,Travel_Frequently,9,6,3,3,0,No
+EMP0030,35,Male,Research & Development,Laboratory Technician,Diploma,Single,2023-07-15,3,3,3,75776,2,4,No,Travel_Frequently,3,6,1,4,0,No
+EMP0031,29,Female,IT,IT Support Specialist,High School,Married,2020-04-23,6,5,2,60411,1,4,No,Travel_Rarely,20,0,3,6,3,No
+EMP0032,40,Female,Research & Development,Research Scientist,Master's,Married,2025-07-23,1,0,3,63230,1,3,No,Non-Travel,3,2,3,1,0,No
+EMP0033,33,Female,Sales,Sales Manager,Diploma,Married,2019-09-17,7,7,2,49851,1,4,No,Travel_Frequently,35,6,3,3,0,No
+EMP0034,32,Male,IT,Software Engineer,Diploma,Single,2024-04-25,2,0,2,82466,2,3,No,Travel_Rarely,17,2,3,2,0,No
+EMP0035,24,Male,IT,Data Analyst,High School,Single,2017-02-21,9,1,1,52273,2,3,No,Travel_Rarely,16,2,3,6,0,No
+EMP0036,21,Female,Research & Development,Research Director,Diploma,Single,2021-03-04,5,2,1,75250,3,3,No,Travel_Rarely,31,2,3,3,3,No
+EMP0037,33,Male,Research & Development,Research Director,Master's,Married,2017-03-06,9,4,2,63054,2,2,Yes,Travel_Rarely,32,0,4,9,1,No
+EMP0038,29,Male,Research & Development,Research Scientist,Master's,Divorced,2015-07-30,11,4,2,61099,4,3,No,Travel_Rarely,6,1,2,7,3,No
+EMP0039,35,Female,Research & Development,Research Director,High School,Married,2020-11-10,5,3,3,61772,3,3,No,Travel_Frequently,14,2,3,6,0,No
+EMP0040,34,Female,Sales,Sales Representative,Master's,Married,2020-01-20,6,5,3,60299,3,3,Yes,Travel_Rarely,13,3,2,3,0,No
+EMP0041,33,Male,Sales,Sales Representative,Master's,Married,2015-09-02,11,2,2,55961,4,3,No,Travel_Frequently,32,3,2,6,0,No
+EMP0042,31,Male,Research & Development,Research Scientist,Master's,Single,2016-01-10,10,3,2,65139,4,4,No,Travel_Frequently,34,5,3,5,0,No
+EMP0043,21,Female,Finance,Accountant,Bachelor's,Married,2025-11-13,0,0,1,58473,1,3,No,Travel_Rarely,36,0,3,2,0,Yes
+EMP0044,24,Female,Research & Development,Research Scientist,Diploma,Married,2019-07-14,7,0,1,71371,3,3,No,Travel_Rarely,19,3,4,7,0,No
+EMP0045,24,Female,Sales,Sales Manager,Master's,Married,2022-12-17,3,1,1,30240,2,1,No,Travel_Rarely,19,4,3,3,0,No
+EMP0046,25,Female,Research & Development,Laboratory Technician,Master's,Married,2016-08-15,10,6,1,51726,2,3,No,Travel_Rarely,1,2,3,7,3,No
+EMP0047,25,Non-binary,Research & Development,Research Scientist,Bachelor's,Single,2020-01-04,6,4,1,34788,3,3,No,Travel_Rarely,27,0,3,3,0,Yes
+EMP0048,21,Female,Finance,Accountant,High School,Divorced,2023-11-20,2,2,1,70244,4,3,Yes,Travel_Rarely,1,5,2,2,0,No
+EMP0049,46,Female,Finance,Finance Manager,Master's,Married,2017-12-21,8,5,4,86111,3,3,Yes,Travel_Rarely,35,0,3,3,0,No
+EMP0050,32,Male,Human Resources,HR Manager,Master's,Single,2016-01-06,10,6,2,58288,4,4,No,Non-Travel,24,3,2,7,1,No
+EMP0051,35,Male,Research & Development,Research Scientist,Master's,Married,2015-11-20,10,6,3,62701,3,2,No,Travel_Rarely,19,5,3,6,0,No
+EMP0052,40,Male,Finance,Accountant,Bachelor's,Divorced,2025-10-15,1,1,3,69411,3,3,No,Travel_Frequently,19,0,4,3,0,No
+EMP0053,22,Female,Sales,Sales Executive,Bachelor's,Married,2023-05-09,3,0,1,36487,4,4,No,Travel_Frequently,9,5,2,3,0,No
+EMP0054,34,Female,Sales,Sales Manager,Bachelor's,Single,2019-02-03,7,2,3,57724,1,3,No,Travel_Rarely,11,2,4,6,4,No
+EMP0055,29,Male,Finance,Finance Manager,Bachelor's,Married,2024-01-08,2,0,2,78466,3,1,No,Travel_Rarely,1,2,3,1,0,No
+EMP0056,29,Female,Human Resources,HR Executive,Bachelor's,Married,2024-03-22,2,2,2,41463,4,2,Yes,Non-Travel,30,5,3,2,0,Yes
+EMP0057,40,Female,Sales,Sales Representative,Bachelor's,Married,2020-07-10,6,0,3,57459,1,4,Yes,Travel_Rarely,27,5,2,2,0,No
+EMP0058,35,Female,Research & Development,Laboratory Technician,High School,Single,2019-02-26,7,3,3,67303,3,4,No,Non-Travel,8,6,3,3,0,No
+EMP0059,21,Male,Sales,Sales Executive,Bachelor's,Single,2015-07-27,11,5,1,23587,2,2,No,Non-Travel,39,0,3,5,5,No
+EMP0060,21,Male,Finance,Accountant,Bachelor's,Married,2016-03-26,10,0,1,47972,2,3,No,Travel_Rarely,31,3,3,6,1,No
+EMP0061,21,Male,Sales,Sales Manager,Master's,Single,2015-06-27,11,8,1,41476,2,3,Yes,Travel_Frequently,6,2,3,4,0,Yes
+EMP0062,27,Female,Sales,Sales Manager,Master's,Married,2018-08-24,8,6,2,42579,4,3,No,Travel_Rarely,14,3,3,6,0,No
+EMP0063,26,Female,Research & Development,Research Scientist,Bachelor's,Married,2016-01-25,10,5,1,52688,3,3,No,Travel_Rarely,24,6,2,5,0,No
+EMP0064,22,Male,Finance,Financial Analyst,Bachelor's,Single,2019-08-10,7,5,1,46934,4,4,No,Travel_Frequently,31,1,3,5,0,No
+EMP0065,38,Female,Research & Development,Research Director,Diploma,Single,2017-07-15,9,6,3,72805,4,4,No,Travel_Rarely,20,2,3,5,0,No
+EMP0066,32,Male,Sales,Sales Manager,Bachelor's,Divorced,2023-04-24,3,0,2,48144,1,3,No,Travel_Rarely,10,1,3,5,0,No
+EMP0067,26,Female,Sales,Sales Manager,Bachelor's,Single,2021-10-22,4,3,1,45307,3,2,No,Travel_Rarely,26,4,2,5,0,No
+EMP0068,35,Male,Finance,Finance Manager,Master's,Single,2018-03-31,8,5,3,54792,1,3,No,Travel_Rarely,3,3,1,5,4,No
+EMP0069,24,Female,IT,Software Engineer,High School,Married,2022-12-16,3,3,1,50616,2,3,No,Travel_Rarely,16,3,3,3,0,No
+EMP0070,31,Female,Research & Development,Research Director,Master's,Single,2018-09-26,8,2,2,66616,1,3,No,Travel_Rarely,10,2,2,4,1,No
+EMP0071,31,Non-binary,IT,Software Engineer,Master's,Married,2023-09-01,3,3,2,60341,3,3,No,Travel_Rarely,10,3,2,2,0,No
+EMP0072,33,Female,Research & Development,Research Director,Bachelor's,Married,2020-09-09,6,0,2,62023,2,3,Yes,Travel_Frequently,38,4,4,6,1,Yes
+EMP0073,42,Non-binary,Sales,Sales Executive,Bachelor's,Single,2017-02-10,9,5,3,53661,3,3,No,Travel_Rarely,16,5,3,3,1,No
+EMP0074,38,Male,Research & Development,Research Director,Bachelor's,Single,2018-03-04,8,6,3,75303,3,3,No,Travel_Rarely,39,6,2,5,0,No
+EMP0075,39,Male,Human Resources,Recruiter,Master's,Married,2022-05-11,4,3,3,57125,2,3,Yes,Travel_Rarely,34,0,3,3,0,No
+EMP0076,30,Male,Research & Development,Research Director,Master's,Divorced,2017-05-27,9,5,2,63312,4,3,Yes,Travel_Rarely,3,5,3,7,2,Yes
+EMP0077,30,Male,Sales,Sales Representative,Bachelor's,Married,2024-04-28,2,2,2,54745,4,4,Yes,Travel_Rarely,29,1,3,5,0,No
+EMP0078,21,Female,IT,Data Analyst,Master's,Single,2019-02-15,7,7,1,59305,3,3,No,Travel_Rarely,31,6,3,4,3,No
+EMP0079,29,Male,Human Resources,HR Manager,Master's,Married,2015-12-10,10,2,2,51536,2,4,Yes,Travel_Rarely,26,4,3,5,0,Yes
+EMP0080,35,Female,Sales,Sales Representative,Bachelor's,Divorced,2016-02-10,10,5,3,67783,4,2,No,Travel_Frequently,2,2,3,5,0,No
+EMP0081,27,Female,Finance,Accountant,Bachelor's,Single,2023-09-15,3,2,2,55032,2,2,Yes,Travel_Rarely,33,4,3,3,0,No
+EMP0082,29,Non-binary,Research & Development,Research Director,High School,Married,2019-09-03,7,2,2,54590,3,2,No,Non-Travel,3,5,3,4,0,No
+EMP0083,32,Male,IT,IT Support Specialist,Bachelor's,Married,2017-09-14,9,1,2,67632,4,4,No,Non-Travel,12,6,2,4,2,No
+EMP0084,39,Male,Finance,Finance Manager,Diploma,Married,2023-11-15,2,0,3,71390,4,3,No,Travel_Rarely,4,6,3,2,0,No
+EMP0085,26,Male,IT,Software Engineer,High School,Married,2019-12-07,6,3,1,59510,2,2,No,Travel_Rarely,12,4,3,3,0,No
+EMP0086,31,Male,Research & Development,Research Director,Doctorate,Divorced,2023-01-18,3,3,2,68380,2,3,No,Travel_Rarely,5,5,3,3,0,No
+EMP0087,25,Female,IT,IT Support Specialist,Bachelor's,Married,2016-08-07,10,7,1,35912,1,1,No,Travel_Rarely,29,6,2,7,0,No
+EMP0088,31,Female,Research & Development,Research Scientist,Doctorate,Single,2025-10-09,1,0,2,65687,1,2,No,Travel_Frequently,32,1,2,5,0,Yes
+EMP0089,40,Female,Research & Development,Research Director,Bachelor's,Married,2015-12-26,10,5,3,62193,3,3,No,Travel_Rarely,33,1,2,6,0,No
+EMP0090,34,Non-binary,Sales,Sales Manager,Bachelor's,Married,2021-03-19,5,4,3,57989,3,4,No,Travel_Rarely,27,6,3,5,0,No
+EMP0091,42,Male,Research & Development,Research Scientist,Master's,Married,2020-10-20,6,2,3,72528,2,4,No,Travel_Rarely,20,1,2,4,3,No
+EMP0092,43,Male,Sales,Sales Executive,Bachelor's,Married,2018-03-09,8,1,4,65472,2,3,No,Travel_Rarely,11,5,3,7,3,No
+EMP0093,36,Female,Research & Development,Research Scientist,Bachelor's,Married,2024-09-08,2,0,3,66799,1,4,No,Travel_Rarely,19,5,4,5,0,No
+EMP0094,31,Male,IT,Software Engineer,Doctorate,Single,2015-10-26,10,0,2,58059,2,3,No,Travel_Rarely,24,4,3,8,0,No
+EMP0095,33,Male,Research & Development,Research Director,Master's,Single,2016-02-01,10,0,2,65752,2,3,No,Travel_Rarely,11,3,4,5,1,No
+EMP0096,30,Female,IT,Software Engineer,Bachelor's,Single,2019-05-30,7,7,2,65064,4,2,No,Non-Travel,7,3,2,5,0,No
+EMP0097,32,Non-binary,Research & Development,Research Director,Bachelor's,Single,2015-07-29,11,8,2,60564,2,3,Yes,Travel_Rarely,7,3,3,5,5,No
+EMP0098,31,Male,Research & Development,Research Director,Diploma,Divorced,2021-10-03,5,4,2,62755,3,1,Yes,Travel_Rarely,21,1,3,3,0,Yes
+EMP0099,26,Male,IT,Software Engineer,Master's,Married,2020-09-18,6,4,1,50051,3,3,No,Non-Travel,2,4,3,5,4,No
+EMP0100,35,Female,IT,Data Analyst,Bachelor's,Married,2023-02-02,3,0,3,62342,3,2,No,Travel_Rarely,13,0,3,3,0,No
+EMP0101,36,Female,Research & Development,Research Director,Bachelor's,Divorced,2021-11-09,4,3,3,78181,4,4,Yes,Travel_Rarely,30,4,3,5,0,No
+EMP0102,31,Male,IT,Software Engineer,Master's,Married,2022-10-10,4,2,2,52292,3,2,Yes,Travel_Rarely,32,2,3,8,0,No
+EMP0103,32,Male,Finance,Finance Manager,High School,Divorced,2021-06-06,5,5,2,53702,3,4,No,Travel_Rarely,17,5,3,3,0,No
+EMP0104,45,Male,Research & Development,Laboratory Technician,Bachelor's,Married,2016-07-16,10,1,4,71324,3,3,Yes,Travel_Rarely,9,0,4,5,5,No
+EMP0105,24,Female,Sales,Sales Executive,Bachelor's,Married,2020-05-02,6,3,1,26791,3,4,No,Travel_Rarely,3,1,3,5,2,No
+EMP0106,48,Female,Finance,Accountant,Bachelor's,Divorced,2023-11-02,2,1,4,82875,2,4,No,Travel_Rarely,35,4,3,4,1,No
+EMP0107,28,Male,IT,Data Analyst,Diploma,Married,2016-04-06,10,5,2,66175,2,3,Yes,Travel_Rarely,26,6,3,3,0,No
+EMP0108,52,Female,Research & Development,Research Director,High School,Married,2020-05-09,6,2,5,100359,4,1,No,Travel_Rarely,16,0,3,6,0,No
+EMP0109,26,Male,Sales,Sales Representative,Master's,Married,2024-12-15,1,1,1,23236,3,3,No,Travel_Rarely,27,5,3,7,0,No
+EMP0110,31,Female,Research & Development,Research Scientist,Bachelor's,Single,2017-10-10,9,1,2,53579,3,3,No,Travel_Frequently,21,6,3,7,0,No
+EMP0111,30,Female,Sales,Sales Manager,High School,Single,2020-09-21,6,3,2,49038,4,3,No,Travel_Rarely,1,5,3,5,0,No
+EMP0112,30,Female,Research & Development,Laboratory Technician,Bachelor's,Divorced,2015-09-04,11,1,2,48307,4,3,No,Travel_Rarely,29,6,4,7,1,No
+EMP0113,49,Female,Sales,Sales Representative,Bachelor's,Married,2016-06-28,10,5,4,64903,1,4,No,Travel_Rarely,28,4,3,5,0,Yes
+EMP0114,36,Male,Research & Development,Research Director,High School,Married,2024-10-24,1,0,3,72813,1,3,No,Travel_Frequently,4,1,3,3,0,Yes
+EMP0115,37,Female,Sales,Sales Representative,Diploma,Married,2015-08-20,11,2,3,77590,3,3,No,Travel_Rarely,34,1,3,8,0,No
+EMP0116,23,Female,Research & Development,Laboratory Technician,Diploma,Married,2016-12-18,9,6,1,42008,3,1,No,Travel_Rarely,35,3,3,6,0,No
+EMP0117,39,Male,IT,Software Engineer,Master's,Single,2015-08-25,11,8,3,81905,3,3,No,Travel_Rarely,13,0,3,7,2,No
+EMP0118,37,Female,Research & Development,Research Scientist,Master's,Married,2023-07-17,3,1,3,63855,3,4,No,Travel_Frequently,16,5,3,4,0,Yes
+EMP0119,21,Non-binary,Finance,Accountant,Master's,Single,2019-04-09,7,7,1,46999,3,3,Yes,Travel_Rarely,14,2,3,5,0,No
+EMP0120,33,Male,IT,IT Support Specialist,Master's,Single,2021-03-16,5,4,2,63374,3,3,Yes,Travel_Rarely,32,5,3,6,0,No
+EMP0121,35,Male,Sales,Sales Manager,High School,Single,2023-01-29,3,3,3,54736,2,4,No,Travel_Frequently,9,6,3,3,0,No
+EMP0122,35,Male,Sales,Sales Representative,High School,Married,2015-09-05,11,7,3,69740,3,1,No,Travel_Rarely,28,6,4,6,0,Yes
+EMP0123,28,Male,Finance,Finance Manager,Diploma,Married,2021-12-13,4,4,2,59980,2,3,No,Non-Travel,6,5,4,4,0,No
+EMP0124,27,Female,Sales,Sales Executive,Master's,Divorced,2020-05-03,6,0,2,55910,3,3,Yes,Travel_Frequently,15,1,4,3,1,No
+EMP0125,31,Female,Research & Development,Research Director,Master's,Divorced,2022-09-04,4,2,2,79261,4,3,Yes,Travel_Frequently,20,1,3,8,0,No
+EMP0126,29,Male,IT,Data Analyst,Bachelor's,Married,2019-04-22,7,2,2,54934,4,3,Yes,Travel_Rarely,39,3,4,5,0,No
+EMP0127,35,Male,Human Resources,HR Executive,Master's,Single,2017-07-23,9,5,3,51368,3,3,Yes,Travel_Rarely,10,3,3,7,1,No
+EMP0128,32,Male,IT,Data Analyst,High School,Married,2015-01-22,11,4,2,68902,3,4,Yes,Non-Travel,6,4,3,7,0,No
+EMP0129,31,Male,Research & Development,Laboratory Technician,Diploma,Single,2015-12-13,10,8,2,67609,4,4,No,Travel_Rarely,18,3,3,6,3,No
+EMP0130,46,Male,Research & Development,Laboratory Technician,Bachelor's,Married,2020-07-23,6,4,4,72063,3,3,Yes,Non-Travel,39,1,3,6,1,No
+EMP0131,29,Female,Human Resources,HR Manager,Bachelor's,Divorced,2019-06-20,7,5,2,52740,2,3,No,Travel_Rarely,13,4,4,6,0,No
+EMP0132,46,Male,IT,IT Support Specialist,Bachelor's,Single,2025-07-29,1,0,4,85441,3,3,No,Travel_Frequently,10,5,3,2,0,No
+EMP0133,25,Female,Research & Development,Research Director,Bachelor's,Single,2020-12-28,5,4,1,43135,4,4,No,Non-Travel,16,5,3,4,0,No
+EMP0134,23,Female,Research & Development,Research Director,Bachelor's,Married,2022-04-03,4,3,1,44988,4,3,No,Non-Travel,29,2,3,5,1,No
+EMP0135,26,Male,Research & Development,Laboratory Technician,Master's,Married,2015-04-11,11,7,1,49975,1,3,No,Non-Travel,23,3,2,5,2,No
+EMP0136,36,Male,Research & Development,Research Director,Diploma,Married,2022-12-21,3,0,3,69114,1,3,Yes,Travel_Frequently,30,1,3,3,0,Yes
+EMP0137,29,Female,Sales,Sales Manager,High School,Married,2023-04-09,3,1,2,43457,3,3,Yes,Travel_Rarely,12,2,3,6,0,No
+EMP0138,40,Female,Sales,Sales Manager,Master's,Divorced,2022-03-02,4,2,3,51623,3,3,No,Travel_Rarely,38,0,3,2,0,No
+EMP0139,39,Female,Sales,Sales Executive,Bachelor's,Married,2016-08-02,10,8,3,65833,3,3,No,Travel_Rarely,9,1,3,6,1,No
+EMP0140,33,Female,Sales,Sales Representative,Diploma,Married,2016-07-13,10,3,2,51967,4,4,No,Travel_Rarely,15,2,1,4,0,No
+EMP0141,35,Female,Research & Development,Research Scientist,Master's,Married,2023-08-31,3,3,3,56593,3,2,Yes,Travel_Rarely,14,3,2,2,1,No
+EMP0142,24,Female,IT,IT Support Specialist,Bachelor's,Married,2020-01-17,6,2,1,88816,3,4,No,Travel_Frequently,40,5,3,3,1,No
+EMP0143,39,Female,IT,IT Support Specialist,Doctorate,Married,2021-05-24,5,2,3,58995,3,3,Yes,Travel_Frequently,7,1,4,6,1,No
+EMP0144,50,Male,Finance,Accountant,Bachelor's,Married,2016-06-03,10,2,5,87146,2,3,No,Travel_Rarely,5,5,3,4,2,No
+EMP0145,33,Female,Research & Development,Research Director,Bachelor's,Married,2024-11-02,1,1,2,45136,3,3,No,Travel_Frequently,5,6,3,3,0,No
+EMP0146,35,Male,Research & Development,Research Scientist,Bachelor's,Married,2024-04-15,2,1,3,74914,2,3,No,Travel_Rarely,2,0,4,5,0,No
+EMP0147,42,Male,Research & Development,Research Director,Master's,Single,2022-09-21,4,1,3,67512,4,3,No,Travel_Frequently,26,5,3,5,0,No
+EMP0148,27,Female,Sales,Sales Representative,Bachelor's,Married,2015-01-05,11,3,2,39365,3,2,Yes,Travel_Rarely,15,3,2,6,3,Yes
+EMP0149,29,Male,Sales,Sales Executive,Bachelor's,Single,2019-04-17,7,2,2,56611,3,3,Yes,Travel_Rarely,27,4,3,4,2,No
+EMP0150,44,Male,Sales,Sales Manager,Master's,Single,2021-08-11,5,5,4,77875,3,4,No,Travel_Rarely,2,6,3,5,2,No
+EMP0151,29,Female,Sales,Sales Executive,Bachelor's,Divorced,2019-05-24,7,4,2,47377,3,4,No,Travel_Rarely,24,2,2,5,2,No
+EMP0152,25,Male,Research & Development,Laboratory Technician,Bachelor's,Married,2023-07-22,3,3,1,60209,4,4,Yes,Non-Travel,33,6,3,4,0,No
+EMP0153,23,Female,Sales,Sales Manager,Bachelor's,Single,2018-02-10,8,1,1,39164,2,3,Yes,Travel_Frequently,28,5,4,5,0,No
+EMP0154,37,Male,Sales,Sales Representative,Doctorate,Married,2021-11-12,4,4,3,57961,1,3,No,Travel_Rarely,17,1,3,4,1,No
+EMP0155,33,Male,IT,IT Support Specialist,Bachelor's,Married,2025-02-02,1,0,2,60514,2,3,No,Travel_Rarely,37,1,3,3,0,No
+EMP0156,22,Male,Sales,Sales Executive,Bachelor's,Divorced,2017-07-24,9,8,1,35542,1,4,Yes,Non-Travel,27,1,3,8,0,No
+EMP0157,33,Male,IT,Software Engineer,Master's,Married,2019-03-08,7,1,2,68592,3,4,Yes,Travel_Frequently,20,2,2,4,0,Yes
+EMP0158,30,Female,Research & Development,Research Scientist,Diploma,Divorced,2023-04-18,3,1,2,74232,3,3,No,Travel_Rarely,2,1,3,7,0,No
+EMP0159,41,Male,Human Resources,HR Executive,Master's,Single,2023-07-06,3,3,3,61489,4,4,Yes,Travel_Rarely,15,6,3,5,0,No
+EMP0160,37,Male,Research & Development,Laboratory Technician,Master's,Divorced,2016-01-27,10,8,3,67396,2,4,Yes,Travel_Rarely,26,5,3,7,0,No
+EMP0161,35,Male,Research & Development,Laboratory Technician,Bachelor's,Married,2016-07-11,10,1,3,89464,2,2,No,Travel_Rarely,6,1,3,5,0,No
+EMP0162,29,Female,Human Resources,HR Executive,High School,Married,2024-08-09,2,1,2,48214,2,3,No,Travel_Rarely,29,4,3,4,0,No
+EMP0163,35,Female,Research & Development,Research Director,Bachelor's,Divorced,2015-02-18,11,0,3,63341,4,4,Yes,Travel_Frequently,5,0,4,7,0,No
+EMP0164,35,Male,Human Resources,HR Manager,Bachelor's,Single,2024-07-02,2,1,3,57317,2,4,Yes,Travel_Frequently,14,1,3,4,0,No
+EMP0165,25,Female,Sales,Sales Manager,Diploma,Divorced,2022-04-05,4,2,1,33807,3,4,No,Non-Travel,35,6,1,5,0,No
+EMP0166,21,Male,Human Resources,HR Manager,Bachelor's,Married,2018-11-10,7,5,1,44998,3,2,No,Travel_Rarely,15,1,2,3,1,No
+EMP0167,41,Male,Sales,Sales Representative,Master's,Married,2015-08-18,11,3,3,41624,3,4,No,Travel_Frequently,38,0,3,6,0,No
+EMP0168,46,Male,Research & Development,Laboratory Technician,Master's,Single,2024-05-20,2,1,4,94065,3,2,Yes,Non-Travel,9,2,3,3,1,No
+EMP0169,33,Female,IT,Software Engineer,Bachelor's,Single,2021-07-30,5,5,2,66695,4,4,No,Travel_Frequently,21,1,4,4,1,No
+EMP0170,28,Female,Research & Development,Laboratory Technician,Bachelor's,Married,2018-07-23,8,2,2,51016,3,3,No,Travel_Rarely,9,1,3,7,4,No
+EMP0171,21,Male,Finance,Accountant,Diploma,Married,2025-10-28,0,0,1,70211,3,2,No,Travel_Frequently,16,2,4,2,0,No
+EMP0172,36,Male,Sales,Sales Representative,Bachelor's,Married,2022-12-13,3,2,3,57440,3,3,Yes,Non-Travel,11,3,3,4,0,No
+EMP0173,41,Male,Research & Development,Research Scientist,High School,Single,2024-09-09,2,2,3,74119,3,3,Yes,Non-Travel,25,1,3,2,0,No
+EMP0174,42,Male,IT,Data Analyst,Bachelor's,Married,2021-11-18,4,3,3,80673,3,3,No,Travel_Rarely,35,2,3,4,0,No
+EMP0175,26,Male,Sales,Sales Executive,Diploma,Single,2020-07-03,6,1,1,49085,1,1,Yes,Travel_Frequently,6,3,3,3,0,Yes
+EMP0176,22,Male,Research & Development,Laboratory Technician,Bachelor's,Single,2016-01-09,10,8,1,50906,3,3,No,Travel_Rarely,7,0,3,6,3,No
+EMP0177,34,Male,Research & Development,Research Scientist,Bachelor's,Married,2015-09-07,11,6,3,61538,4,3,No,Travel_Frequently,3,4,3,6,1,No
+EMP0178,38,Non-binary,Research & Development,Laboratory Technician,Diploma,Married,2025-08-24,1,1,3,67450,2,4,No,Travel_Frequently,10,6,3,4,0,No
+EMP0179,35,Female,IT,Software Engineer,High School,Single,2021-03-28,5,3,3,70406,3,4,No,Travel_Frequently,37,4,3,4,3,No
+EMP0180,44,Male,Sales,Sales Executive,Diploma,Single,2023-10-24,2,1,4,78641,4,4,No,Travel_Rarely,39,5,3,2,0,No
+EMP0181,31,Male,IT,IT Support Specialist,Bachelor's,Divorced,2023-05-13,3,3,2,70778,4,4,Yes,Travel_Frequently,15,1,3,5,0,No
+EMP0182,28,Male,IT,Data Analyst,Bachelor's,Single,2021-10-13,5,5,2,78121,1,3,No,Travel_Rarely,20,5,3,4,0,No
+EMP0183,35,Female,IT,IT Support Specialist,Bachelor's,Divorced,2017-02-28,9,3,3,72500,4,2,No,Travel_Frequently,2,1,3,4,1,No
+EMP0184,41,Male,Sales,Sales Manager,Master's,Single,2018-12-03,7,5,3,51301,2,4,No,Travel_Rarely,15,5,3,6,0,No
+EMP0185,21,Male,Human Resources,HR Manager,Master's,Married,2025-11-05,0,0,1,41499,4,1,No,Travel_Rarely,18,3,4,3,0,No
+EMP0186,28,Male,IT,IT Support Specialist,Bachelor's,Single,2018-05-22,8,8,2,66608,4,3,Yes,Travel_Rarely,7,3,2,3,5,No
+EMP0187,38,Male,Human Resources,HR Manager,Bachelor's,Married,2022-12-22,3,2,3,55646,2,3,Yes,Non-Travel,32,2,3,2,0,Yes
+EMP0188,46,Male,Research & Development,Laboratory Technician,Master's,Married,2021-06-01,5,1,4,80108,3,3,No,Travel_Rarely,36,1,3,5,0,No
+EMP0189,32,Male,IT,Software Engineer,Bachelor's,Married,2025-03-27,1,0,2,53622,4,4,No,Travel_Rarely,30,6,2,6,0,No
+EMP0190,24,Male,Human Resources,HR Executive,Bachelor's,Divorced,2020-04-18,6,1,1,36941,3,4,No,Travel_Rarely,30,1,3,5,1,No
+EMP0191,22,Male,IT,Data Analyst,Diploma,Married,2016-12-25,9,5,1,56990,3,1,Yes,Travel_Rarely,28,3,3,7,1,Yes
+EMP0192,21,Male,Sales,Sales Representative,Bachelor's,Single,2025-08-27,1,0,1,38928,4,4,No,Non-Travel,33,4,3,3,0,Yes
+EMP0193,42,Female,Sales,Sales Executive,Master's,Divorced,2020-11-01,5,4,3,56840,3,3,No,Travel_Rarely,26,0,3,4,1,No
+EMP0194,32,Male,Sales,Sales Executive,Bachelor's,Married,2016-11-23,9,1,2,39046,3,3,Yes,Travel_Frequently,2,0,3,7,0,No
+EMP0195,25,Female,Research & Development,Research Scientist,Bachelor's,Divorced,2016-09-19,10,3,1,47011,3,3,No,Travel_Rarely,33,5,3,4,0,No
+EMP0196,23,Female,IT,IT Support Specialist,Master's,Single,2023-09-22,3,2,1,56175,4,4,No,Travel_Rarely,1,0,3,5,1,No
+EMP0197,31,Male,IT,Data Analyst,High School,Single,2016-01-04,10,8,2,60532,1,4,No,Travel_Rarely,3,6,3,7,3,No
+EMP0198,33,Male,Research & Development,Research Director,High School,Married,2023-07-03,3,0,2,54989,1,2,No,Travel_Rarely,12,0,3,1,1,Yes
+EMP0199,22,Male,Sales,Sales Representative,Master's,Married,2023-12-21,2,1,1,53547,3,4,Yes,Travel_Rarely,37,5,3,5,0,Yes
+EMP0200,21,Male,IT,IT Support Specialist,Bachelor's,Married,2024-11-13,1,0,1,44452,3,3,No,Travel_Rarely,37,1,4,4,0,No
